@@ -39,4 +39,3 @@ def del_conf(group, name):
     conf.remove_option(group, name)
     with open(target_configfile, 'w') as f:
         conf.write(f)
-

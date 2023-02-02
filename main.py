@@ -118,4 +118,3 @@ if __name__ == '__main__':
             ctn = input('Continue?(n/N or key_word):')
     else:
         print('No key_word to search!')
-
